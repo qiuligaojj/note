@@ -1,0 +1,152 @@
+[INFO]logs_create.py:56-15:09:59.928-hello word!!!
+[INFO]test_level1.py:25-15:13:23.133-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]test_level1.py:26-15:13:23.243-Describe: 获取首页便签列表接口 
+[INFO]test_level1.py:27-15:13:23.245-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:13:23.506-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:13:23.509-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:13:23.511-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:13:23.515-code : 200
+[INFO]test_level1.py:25-15:14:23.496-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]test_level1.py:26-15:14:23.557-Describe: 获取首页便签列表接口 
+[INFO]test_level1.py:27-15:14:23.560-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:14:23.785-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:14:23.787-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:14:23.789-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:14:23.792-code : 200
+[INFO]logs_create.py:56-15:27:05.205-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:27:05.310-Describe: 主流程
+[INFO]test_level1.py:27-15:27:05.313-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]test_level1.py:28-15:27:05.316-Describe: 获取首页便签列表接口 
+[INFO]test_level1.py:29-15:27:05.319-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:27:05.571-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:27:05.575-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:27:05.578-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:27:05.582-code : 200
+[INFO]logs_create.py:56-15:27:22.381-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:27:22.473-Describe: 主流程
+[INFO]test_level1.py:24-15:27:22.476-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:27:22.680-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:27:22.683-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:27:22.686-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:27:22.689-code : 200
+[INFO]logs_create.py:56-15:32:38.853-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:32:38.941-Describe: 主流程
+[INFO]test_level1.py:24-15:32:38.943-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:32:39.157-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:32:39.160-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:32:39.163-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:32:39.166-code : 200
+[INFO]logs_create.py:56-15:32:53.797-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:32:53.890-Describe: 主流程
+[INFO]test_level1.py:24-15:32:53.892-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:32:54.104-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:32:54.107-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:32:54.110-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:32:54.113-code : 200
+[INFO]requests_demo.py:9-15:32:54.284-url : https://note-api.wps.cn/v3/notesvr/user/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:32:54.287-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:32:54.290-response : {"timestamp":"2023-06-08T07:31:59.156+0000","status":404,"error":"Not Found","message":"No message available","path":"/v3/notesvr/user/home/startindex/0/rows/10/notes"}
+[INFO]requests_demo.py:12-15:32:54.293-code : 404
+[INFO]logs_create.py:56-15:33:34.376-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:33:34.468-Describe: None
+[INFO]test_level1.py:25-15:33:34.471-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:33:34.689-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:33:34.692-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:33:34.695-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:33:34.698-code : 200
+[INFO]logs_create.py:56-15:33:34.702-TestCase: testCase2_userid of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:33:34.705-Describe: None
+[INFO]requests_demo.py:9-15:33:34.879-url : https://note-api.wps.cn/v3/notesvr/user/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:33:34.882-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:33:34.885-response : {"timestamp":"2023-06-08T07:32:39.749+0000","status":404,"error":"Not Found","message":"No message available","path":"/v3/notesvr/user/home/startindex/0/rows/10/notes"}
+[INFO]requests_demo.py:12-15:33:34.889-code : 404
+[INFO]logs_create.py:56-15:33:42.045-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:33:42.105-Describe: None
+[INFO]test_level1.py:25-15:33:42.107-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:33:42.304-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:33:42.307-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:33:42.309-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:33:42.312-code : 200
+[INFO]logs_create.py:56-15:33:42.315-TestCase: testCase2_userid of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:33:42.317-Describe: None
+[INFO]requests_demo.py:9-15:33:42.483-url : https://note-api.wps.cn/v3/notesvr/user/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:33:42.486-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:33:42.488-response : {"timestamp":"2023-06-08T07:32:47.359+0000","status":404,"error":"Not Found","message":"No message available","path":"/v3/notesvr/user/home/startindex/0/rows/10/notes"}
+[INFO]requests_demo.py:12-15:33:42.491-code : 404
+[INFO]logs_create.py:56-15:35:40.241-TestCase: testCase2_userid of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:35:40.337-Describe: None
+[INFO]test_level1.py:34-15:35:40.339-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:35:40.532-url : https://note-api.wps.cn/v3/notesvr/user/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:35:40.535-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:35:40.538-response : {"timestamp":"2023-06-08T07:34:45.401+0000","status":404,"error":"Not Found","message":"No message available","path":"/v3/notesvr/user/home/startindex/0/rows/10/notes"}
+[INFO]requests_demo.py:12-15:35:40.542-code : 404
+[INFO]logs_create.py:56-15:49:56.031-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:49:56.123-Describe: None
+[INFO]test_level1.py:25-15:49:56.126-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:49:56.362-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:49:56.366-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:49:56.368-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:49:56.371-code : 200
+[INFO]logs_create.py:56-15:49:56.375-TestCase: testCase2_userid of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:49:56.377-Describe: None
+[INFO]test_level1.py:34-15:49:56.380-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:49:56.554-url : https://note-api.wps.cn/v3/notesvr/user/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:49:56.557-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:49:56.560-response : {"timestamp":"2023-06-08T07:49:01.413+0000","status":404,"error":"Not Found","message":"No message available","path":"/v3/notesvr/user/home/startindex/0/rows/10/notes"}
+[INFO]requests_demo.py:12-15:49:56.562-code : 404
+[INFO]logs_create.py:56-15:50:52.278-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:50:52.370-Describe: 主流程
+[INFO]test_level1.py:25-15:50:52.372-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:50:52.589-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:50:52.591-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:50:52.594-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:50:52.597-code : 200
+[INFO]logs_create.py:56-15:50:52.600-TestCase: testCase2_userid of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:50:52.602-Describe: 请求时不传userid
+[INFO]test_level1.py:35-15:50:52.605-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:50:52.769-url : https://note-api.wps.cn/v3/notesvr/user/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:50:52.772-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:50:52.775-response : {"timestamp":"2023-06-08T07:49:57.631+0000","status":404,"error":"Not Found","message":"No message available","path":"/v3/notesvr/user/home/startindex/0/rows/10/notes"}
+[INFO]requests_demo.py:12-15:50:52.778-code : 404
+[INFO]logs_create.py:56-15:51:42.991-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:51:43.087-Describe: 主流程
+[INFO]test_level1.py:24-15:51:43.089-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:51:43.304-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:51:43.308-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:51:43.312-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:51:43.315-code : 200
+[INFO]logs_create.py:56-15:51:43.319-TestCase: testCase2_userid of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:51:43.321-Describe: 请求时不传userid
+[INFO]test_level1.py:33-15:51:43.324-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:51:43.508-url : https://note-api.wps.cn/v3/notesvr/user/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:51:43.511-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:51:43.514-response : {"timestamp":"2023-06-08T07:50:48.366+0000","status":404,"error":"Not Found","message":"No message available","path":"/v3/notesvr/user/home/startindex/0/rows/10/notes"}
+[INFO]requests_demo.py:12-15:51:43.517-code : 404
+[INFO]logs_create.py:56-15:52:44.642-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:52:44.731-Describe: 主流程
+[INFO]test_level1.py:25-15:52:44.734-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:52:44.951-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:52:44.955-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:52:44.958-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:52:44.961-code : 200
+[INFO]logs_create.py:56-15:52:44.964-TestCase: testCase2_userid of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:52:44.967-Describe: 请求时不传userid
+[INFO]test_level1.py:34-15:52:44.969-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:52:45.146-url : https://note-api.wps.cn/v3/notesvr/user/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:52:45.149-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:52:45.153-response : {"timestamp":"2023-06-08T07:51:50.001+0000","status":404,"error":"Not Found","message":"No message available","path":"/v3/notesvr/user/home/startindex/0/rows/10/notes"}
+[INFO]requests_demo.py:12-15:52:45.156-code : 404
+[INFO]logs_create.py:56-15:53:00.842-TestCase: testCase1_get of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:53:00.934-Describe: 主流程
+[INFO]test_level1.py:25-15:53:00.937-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:53:01.138-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:53:01.142-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:53:01.145-response : {"responseTime":0,"webNotes":[{"noteId":"a2b5f53ebf7a22c8ed28e5114b746d33","createTime":1686129587908,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129587908,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"3ByCpEU4ln7QAQruxOdv7g==","thumbnail":"notes/256665263/9ca3cfa501bacb064fcb068d217bf3a8","contentVersion":3,"contentUpdateTime":1686129678627},{"noteId":"a13446e165e8cfa527229e48e718b756","createTime":1686129584777,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1686129584777,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"IoMYT2eXGkjzw0+KcydeSw==","thumbnail":null,"contentVersion":1,"contentUpdateTime":1686129584907},{"noteId":"cd7722d6dcdf10a68afe835f92a5b566","createTime":1685944625410,"star":0,"remindTime":0,"remindType":0,"infoVersion":1,"infoUpdateTime":1685944625410,"groupId":null,"title":"C1IaVOSV78rxWiYPTlN4tA==","summary":"OAJqPFirwdFU+bHFdvHRJg==","thumbnail":null,"contentVersion":4,"contentUpdateTime":1686129578884}]}
+[INFO]requests_demo.py:12-15:53:01.148-code : 200
+[INFO]logs_create.py:56-15:53:01.151-TestCase: testCase2_userid of class NoteSvrLevel1
+[INFO]logs_create.py:57-15:53:01.153-Describe: 请求时不传userid
+[INFO]test_level1.py:34-15:53:01.156-获取用户jj的首页便签
+[INFO]requests_demo.py:9-15:53:01.329-url : https://note-api.wps.cn/v3/notesvr/user/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-15:53:01.332-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-15:53:01.335-response : {"timestamp":"2023-06-08T07:52:06.191+0000","status":404,"error":"Not Found","message":"No message available","path":"/v3/notesvr/user/home/startindex/0/rows/10/notes"}
+[INFO]requests_demo.py:12-15:53:01.338-code : 404

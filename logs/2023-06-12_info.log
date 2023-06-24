@@ -1,0 +1,15 @@
+[INFO]logs_create.py:56-16:31:19.345-TestCase: testCase01_uploadNoteInfo of class NoteSvrSetNoteInfoLevel1
+[INFO]logs_create.py:57-16:31:19.465-Describe: 主流程
+[INFO]test_level1.py:23-16:31:19.468-上传用户jj的便签主体
+[INFO]logs_create.py:56-16:31:19.491-TestCase: testCase02_uploadNoteInfoNoteIdmiss of class NoteSvrSetNoteInfoLevel1
+[INFO]logs_create.py:57-16:31:19.494-Describe: 不传noteId
+[INFO]test_level1.py:33-16:31:19.497-上传用户jj的便签，不传noteId
+[INFO]logs_create.py:56-16:31:19.504-TestCase: testCase03_uploadNoteInfoNoteIdNone of class NoteSvrSetNoteInfoLevel1
+[INFO]logs_create.py:57-16:31:19.508-Describe: noteId传空字符串
+[INFO]test_level1.py:44-16:31:19.511-上传用户jj的便签，传空的noteId
+[INFO]logs_create.py:56-16:31:19.518-TestCase: testCase04_uploadNoteInfoRedeat of class NoteSvrSetNoteInfoLevel1
+[INFO]logs_create.py:57-16:31:19.521-Describe: 验证数据重复请求
+[INFO]test_level1.py:55-16:31:19.523-重复请求接口成功
+[INFO]logs_create.py:56-16:31:34.779-TestCase: testCase01_uploadNoteInfo of class NoteSvrSetNoteInfoLevel1
+[INFO]logs_create.py:57-16:31:34.876-Describe: 主流程
+[INFO]test_level1.py:23-16:31:34.879-上传用户jj的便签主体

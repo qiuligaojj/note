@@ -1,0 +1,10 @@
+[INFO]logs_create.py:56-10:01:39.238-TestCase: test01_notes of class NoteSvrSetNoteInfoLevel1
+[INFO]logs_create.py:57-10:01:39.311-Describe: 主流程
+[INFO]data_upload_clear.py:76-10:01:39.314-新增分组
+[INFO]test_level1.py:27-10:01:39.559-新增便签主体和内容
+[INFO]data_upload_clear.py:15-10:01:39.562-上传/更新便签信息主体以及上传/更新便签内容
+[INFO]test_level1.py:29-10:01:42.409-获取用户jj的首页便签
+[INFO]requests_demo.py:9-10:01:42.621-url : https://note-api.wps.cn/v3/notesvr/user/256665263/home/startindex/0/rows/10/notes
+[INFO]requests_demo.py:10-10:01:42.625-headers :{'Cookie': 'wps_sid=V02SQdY3jnKrwl8qWzBhOUMN1ATHM7w00a306139000f4c66af'}
+[INFO]requests_demo.py:11-10:01:42.628-response : {"responseTime":0,"webNotes":[{"noteId":"note027","createTime":1686836275664,"star":1,"remindTime":0,"remindType":0,"infoVersion":2,"infoUpdateTime":1686846504963,"groupId":null,"title":"abc","summary":"abc","thumbnail":null,"contentVersion":2,"contentUpdateTime":1686846509530}]}
+[INFO]requests_demo.py:12-10:01:42.629-code : 200
